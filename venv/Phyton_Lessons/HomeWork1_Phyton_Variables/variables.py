@@ -70,6 +70,18 @@ for marka in japonArabaMarkaları:
 #Kodlama.io sitesinde bulunan kur Tüm Kurslar Listelere örnek olarak gösterilebilir.
 
 
+print("****Kodlama.io sitesinde şart blokları kullanıldığını düşündüğünüz kısımları örneklendiriniz ve Python dilinde bu örnekleri koda dökünüz***")
+kursÜcretsiz = False
+
+if(kursÜcretsiz == True):
+    print("Ücretsiz")
+else:
+    print("Ücretli")
+
+
+
+
+
 
 
 
