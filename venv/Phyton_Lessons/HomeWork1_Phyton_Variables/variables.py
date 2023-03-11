@@ -67,6 +67,10 @@ print("Set yapı türlerinde her bir elemana for each loop döngü yapısıyla u
 for marka in japonArabaMarkaları:
     print(marka.upper())
 
+#Kodlama.io sitesinde bulunan kur Tüm Kurslar Listelere örnek olarak gösterilebilir.
+
+
+
 
 
 
