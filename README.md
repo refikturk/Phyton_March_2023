@@ -2,7 +2,8 @@
 
 Merhabalar bu alanda Phyton öğrenme sürescinde yapmış olduğum ödevleri takip edeceğiz.
 
--->Ödev-1 
+-->Ödev-1
+
     Python'da Veri Tiplerini araştırınız, her bir veri tipi için kendi cümlelerinizle açıklamalar yazınız.
     
     Kodlama.io sitesinde değişken olarak kullanıldığını düşündüğünüz verileri, veri tipleriyle birlikte örneklendiriniz.
