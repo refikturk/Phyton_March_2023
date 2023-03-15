@@ -7,11 +7,11 @@ for kredi in krediler:
 for i in range(len(krediler)):
     print(krediler[i])
 #belirli sayıda dönmesini istedğimiz döngüler için kullandığımız döngü tipi
-for i in range(3,10):
+for i in range(3,10): 
     print(i)
-
-#belirli bir sayıda farklı artırma veya azaltma değerleri için kullandığımız döngü tipi
-for i in range(0,10,2):
+    
+#belirli bir sayıda farklı artırma veya
+for i in range(0,10,2): 
     print(i)
 
 for kredi in krediler:
